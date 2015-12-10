@@ -10,7 +10,7 @@ A simple Java application which uses the WebSphere Liberty's jax-rs feature to i
 
 #### Option 1: Eclipse
 
-Import and deploy to Bluemix and/or a local Liberty server using [Eclipse for Java EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/keplersr2) with the [Bluemix plugin](https://marketplace.eclipse.org/content/ibm-eclipse-tools-bluemix). In your local Liberty server, be sure to add the jaxrs-1.1 or jaxrs-2.2 feature to your server.xml
+Import and deploy to Bluemix and/or a local Liberty server using [Eclipse for Java EE](http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/keplersr2) with the [Bluemix plugin](https://marketplace.eclipse.org/content/ibm-eclipse-tools-bluemix). In your local Liberty server, be sure to add the jaxrs-2.0 feature to your server.xml
 [
  Video: Deploy to Bluemix using Eclipse](https://www.youtube.com/watch?v=Ro0CSPeoFoY)
 
